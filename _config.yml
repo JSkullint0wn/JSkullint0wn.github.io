@@ -8,3 +8,5 @@
  jailed: false
  theme: jekyll-theme-hacker
  gfm_quirks: paragraph_end
+
+theme: jekyll-theme-hacker
